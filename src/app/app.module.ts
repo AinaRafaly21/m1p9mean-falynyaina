@@ -8,6 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MenuComponent } from './menu/menu.component';
 import { ProposComponent } from './propos/propos.component';
 import { PlatComponent } from './plat/plat.component';
+import { CommandeencoursComponent } from './commandeencours/commandeencours.component';
 
 
 @NgModule({
@@ -17,6 +18,7 @@ import { PlatComponent } from './plat/plat.component';
     MenuComponent,
     ProposComponent,
     PlatComponent,
+    CommandeencoursComponent,
   ],
   imports: [
     BrowserModule,
