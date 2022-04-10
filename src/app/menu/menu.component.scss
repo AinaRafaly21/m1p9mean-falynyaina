@@ -734,13 +734,13 @@ a {
 }
 
 .card:before {
-  background: #ddd;
+  background: rgba(255,255,255,0.5);
   width: 250%;
   height: 250%;
 }
 
 .card:after {
-  background: white;
+  background: rgba(255,255,255,0.5);
   width: 200%;
   height: 200%;
 }
